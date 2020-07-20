@@ -5,7 +5,15 @@ class Dog
   def name
     @name
   end
-  def dog_name(get_dog_name)
+  def name(get_dog_name)
     @name = get_dog_name
   end
+
+  def initiliaze(breed)
+    @breed=breed
+  end
+  def breed
+    @breed
+  end
+  
 end
