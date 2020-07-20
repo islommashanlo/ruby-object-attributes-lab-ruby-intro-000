@@ -6,6 +6,6 @@ class Dog
     @name
   end
   def dog_name(get_dog_name)
-    @dog_name = get_dog_name
+    @name = get_dog_name
   end
 end
