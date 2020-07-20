@@ -9,7 +9,7 @@ class Dog
     @name = new_name
   end
 
-  def initiliaze(breed)
+  def initiliaze_breed(breed)
     @breed=breed
   end
   def breed
