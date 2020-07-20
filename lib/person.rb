@@ -3,5 +3,3 @@ class Person
     @name = name
     @job = job
   end
-
-  
